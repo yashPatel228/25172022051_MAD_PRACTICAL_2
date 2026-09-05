@@ -5,7 +5,7 @@
 ![UI](https://img.shields.io/badge/UI-XML-orange)
 ![IDE](https://img.shields.io/badge/IDE-Android%20Studio-lightgrey)
 
-A basic Android application developed using **Kotlin and XML** to demonstrate the **Activity Life Cycle** and **Basic User Interface**.
+A basic Android application developed using **Kotlin and XML** to demonstrate the **Activity Life Cycle** and **Basic User Interface**. 
 
 The application displays **"Hello World"** in the center of the screen and demonstrates Activity Life Cycle methods using **Logcat, Toast, and Snackbar messages**.
 
